@@ -1,0 +1,13 @@
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe.config
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\bin\Debug\BedAndBreakfast.exe
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\bin\Debug\BedAndBreakfast.pdb
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.csproj.AssemblyReference.cache
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.BaileysForm.resources
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.Properties.Resources.resources
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.csproj.GenerateResource.cache
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.csproj.CoreCompileInputs.cache
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.exe
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.pdb
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.BelleAireForm.resources
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.BreakfastOptionsForm.resources
+C:\Users\ScoGen814\OneDrive - Berks Career & Technology Center\Level_3\Programming\C#_3\BedAndBreakfast\obj\Debug\BedAndBreakfast.LincolnForm.resources
